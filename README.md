@@ -6,7 +6,7 @@ The code in the enclosed jupyter notebook is compatible with `Python 3.7.3`, `As
 
 ## Usage
 
-The MLP requires six parameters `pulsation period`, `amplitude`, `r`, `\varphi`, `Python 3.7.3`, `Python 3.7.3`,
+The MLP requires six parameters `pulsation period`, `amplitude`, `r`, `\varphi`, `Python 3.7.3`, `Python 3.7.3`, $\theta$, \varphi ,\theta
 
 
 
