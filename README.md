@@ -6,11 +6,7 @@ The code in the enclosed jupyter notebook is compatible with `Python 3.7.3`, `As
 
 ## Usage
 
-The MLP requires six parameters `pulsation period`, `amplitude`, `r`, `\varphi`, `Python 3.7.3`, `Python 3.7.3`, $\theta$, \varphi ,\theta
-
-
-
-
+The MLP requires six parameters `pulsation period`, `amplitude`, `R21`, `ϕ21`, `R31`, and `ϕ31` derived from *I*-band photometry. The `ϕ21`, and `ϕ31` have to be on the same scale as provided by the OGLE team. These six-parameters are scaled by the enclosed scaler `Blazhko-BLG-StandardScaler.pkl` and then processed by the MLP `MLP-Blazhko-BLG.pkl`.
 
 
 
