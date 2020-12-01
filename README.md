@@ -8,6 +8,8 @@ The code in the enclosed jupyter notebook is compatible with `Python 3.7.3`, `As
 
 The MLP requires six parameters `pulsation period`, `amplitude`, `R21`, `ϕ21`, `R31`, and `ϕ31` derived from *I*-band photometry. The `ϕ21`, and `ϕ31` have to be on the same scale as provided by the OGLE team. These six-parameters are scaled by the enclosed scaler `Blazhko-BLG-StandardScaler.pkl` and then processed by the MLP `MLP-Blazhko-BLG.pkl`. In any case, see the `Classification game.ipynb` for an example on *how-to-...*.
 
+### 
+If you encounter some problems or have questions, feel free to contact me. If you use this classifier in your work please cite [Prudil & Skarka 2017](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.4833P/abstract "Cite") and [Prudil et al. (2019).](https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.2602P/abstract "Cite").
 
 
 
