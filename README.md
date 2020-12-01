@@ -1,1 +1,1 @@
-# Detection-of-the-Blazhko-effect
+# Detection of the Blazhko effect
